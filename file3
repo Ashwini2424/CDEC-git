@@ -1,1 +1,14 @@
-this is 3rd file
+Common Types of Branches
+Main (Master) Branch - The primary branch where production-ready code is maintained.
+Feature Branch - Used to develop new features before merging into the main branch.
+Dev - Used to store ongoing devlopment code
+Test - Used to test the code in this branch
+Release Branch - Used for final testing before deploying a new version.
+Hotfix Branch - Used to quickly patch critical issues in production.
+Common Types of Branches
+Main (Master) Branch - The primary branch where production-ready code is maintained.
+Feature Branch - Used to develop new features before merging into the main branch.
+Dev - Used to store ongoing devlopment code
+Test - Used to test the code in this branch
+Release Branch - Used for final testing before deploying a new version.
+Hotfix Branch - Used to quickly patch critical issues in production.
